@@ -1,5 +1,5 @@
 ## Laravel Banking App
-A simple bank transaction management system by using laravel.
+A simple bank transaction management system using laravel.
 
 ## Features
 - Add Bank
